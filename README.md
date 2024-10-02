@@ -12,6 +12,10 @@ You can install an R package that is publicly available in GitHub by using the f
 (replacing **GitHubName/repo** with the correct information):
 ```R
 devtools::install_github('GitHubName/repo')
+
 ```
 You can also create links to files in your repository, for example the script ["hello.R"](R/hello.R)
 in the R folder 
+
+123 my name is priya
+
