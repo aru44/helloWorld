@@ -17,4 +17,4 @@ devtools::install_github('GitHubName/repo')
 You can also create links to files in your repository, for example the script ["hello.R"](R/hello.R)
 in the R folder 
 
-my name is priya 
+my name is priya sharnma
